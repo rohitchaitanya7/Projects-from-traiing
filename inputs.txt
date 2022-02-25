@@ -1,0 +1,61 @@
+Registration
+
+{
+  "accountType": "Salary",
+  "address": "1-57 , Madhavaram",
+  "bankName": "Indian Bank",
+  "branchName": "main branch chittoor",
+  "citizenship": "Indian",
+  "country": "India",
+  "contactNo": "9493407053",
+  "depositAmount": 0,
+  "dob": "1999-01-02",
+  "emailAddress": "kumarpr792@gmail.com",
+  "gender": "Male",
+  "guardianName": "Ramesh",
+  "guardianType": "Father",
+  "identificationNumber": "ABCDE2132Q",
+  "identificationProofType": "PAN",
+  "maritalStatus": "Unmarried",
+  "name": "kumarpr",
+  "referenceAccountHolderAccountNo": "123345",
+  "referenceAccountHolderAddress": "Madhavaram",
+  "referenceAccountHolderName": "Ramesh",
+  "state": "Andhra",
+  "loginDetails":{
+      "username":"kumar",
+      "password":"kumar@792"
+  }
+}
+
+Loan
+
+Education
+
+{
+  "amount": 100000,
+  "durationInYears": 5,
+  "type": "Education",
+  "loanDetails": {
+    "course": "BTech",
+    "courseFee": 35000,
+    "fatherAnnualIncome": 100000,
+    "fatherCurrentCompanyExp": 5,
+    "fatherName": "Ramesh",
+    "fatherOccupation": "Executive",
+    "fatherTotalExp": 25,
+    "rationCard": "12345678"
+  }
+}
+
+
+Login
+
+{
+ 
+  "password": "a3VtYXJANzky",
+  "username": "a3VtYXI="
+}
+
+Y2hhaXRhbnlhMQ
+Y2hhaXRhbnlhQDc5Mg
